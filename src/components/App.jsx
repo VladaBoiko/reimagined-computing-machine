@@ -1,6 +1,5 @@
-import FriendList from './friendList/friendList';
 export const App = () => {
-  console.log(FriendList);
+  console.log('FriendList');
   return (
     <div
       style={{
