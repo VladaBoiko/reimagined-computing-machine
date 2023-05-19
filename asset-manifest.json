@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VladaBoiko/reimagined-computing-machine/static/css/main.7acaea2f.css",
+    "main.js": "/VladaBoiko/reimagined-computing-machine/static/js/main.07d3183d.js",
+    "index.html": "/VladaBoiko/reimagined-computing-machine/index.html",
+    "main.7acaea2f.css.map": "/VladaBoiko/reimagined-computing-machine/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/VladaBoiko/reimagined-computing-machine/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
